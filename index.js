@@ -8,7 +8,7 @@ var CLIENT_EVENTS = Slack.CLIENT_EVENTS;
 var RTM_EVENTS = Slack.RTM_EVENTS;
 
 //
-var bot_api_token = process.env.BOT_API_TOKEN;
+var bot_api_token = process.env.xoxb-400453872228-401042558898-lmLRdzTLte6bTgXHhTT2txKv;
 var subscribers = (process.env.SUBSCRIBERS || "").split(" ");
 
 //
